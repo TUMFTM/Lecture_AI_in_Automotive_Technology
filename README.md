@@ -7,13 +7,13 @@ In this Repository we will upload 13 different lectures that will teach you the 
 1. Lecture 1 - Introduction: Artificial Intelligence: https://youtu.be/f_VvScVwBGU
 2. Lecture 2 - Computer Vision
 3. Lecture 3 - Supervised Learning: Regression
-Lecture 4 - Supervised Learning: Classification
-Lecture 5 - Unsupervised Learning: Clustering
-Lecture 6 - Path Finding: From British Museum to A*
-Lecture 7 - Introduction Neuronal Networks
-Lecture 8 - Deep Neural Networks
-Lecture 9 - Convolutional Neuronal Networks
-Lecture 10 - Recurrent Neuronal Networks
-Lecture 11 - Reeinforcement Learning
-Lecture 12 - AI-Development
-Lecture 13 - Guest Lecturer Rasmus Rothe
+4. Lecture 4 - Supervised Learning: Classification
+5. Lecture 5 - Unsupervised Learning: Clustering
+6. Lecture 6 - Path Finding: From British Museum to A*
+7. Lecture 7 - Introduction Neuronal Networks
+8. Lecture 8 - Deep Neural Networks
+9. Lecture 9 - Convolutional Neuronal Networks
+10. Lecture 10 - Recurrent Neuronal Networks
+11. Lecture 11 - Reeinforcement Learning
+12. Lecture 12 - AI-Development
+13. Lecture 13 - Guest Lecturer Rasmus Rothe
