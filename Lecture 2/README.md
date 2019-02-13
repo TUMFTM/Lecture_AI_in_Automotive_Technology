@@ -7,4 +7,7 @@ In the practice session of lecture 2 we will define a special computer vision pi
 First of all we have to define the pipeline for processing the image. We are splitting the code in two parts
 * A function which is called “process_image”
 * A main software part which is loading the image
+
 In addition, for a better overview we are moving all functions for processing the image to a library called “functions.py”
+
+## Load an Image
