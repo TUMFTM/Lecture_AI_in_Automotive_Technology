@@ -5,7 +5,7 @@ In this repository we will upload the practice session material that belongs to 
 
 ### Lecture Overview:
 1. Lecture 1 - Introduction: Artificial Intelligence: https://youtu.be/f_VvScVwBGU (Practice session start time: 1:11:28)
-2. Lecture 2 - Computer Vision
+2. Lecture 2 - Computer Vision: https://youtu.be/9fTCZ1QPLIg (Practice session start time: 1:26:34 )
 3. Lecture 3 - Supervised Learning: Regression
 4. Lecture 4 - Supervised Learning: Classification
 5. Lecture 5 - Unsupervised Learning: Clustering
