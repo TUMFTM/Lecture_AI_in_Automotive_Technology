@@ -6,8 +6,13 @@ In the practice session of lecture 3 we will show you and introduction to the pr
 ## Things you need
 
 1. The detailed description of how to use juypter notebook with a first example can be in the [Jupyter Notebook Description](https://github.com/TUMFTM/Lecture_AI_in_Automotive_Technology/blob/master/Lecture%202/Lecture_2-Practice_Session_Slides.pdf)
-2. The video part for the practice session of lecture 2 is starting at 1:26:34
-3. The code for this practice session is written in a jupyter notebook and ca be started with the following command:
+2. The first examples displays the usage of linear regression where three different methods of linear regression are used and applied.
+
 ```python
-jupyter Lecture_2-Practice_Session-Notebook.ipynb
+jupyter LinReg.ipynb
+```
+3. The second examples displays a real world example from automotive technology. We are using real world vehicle data (powertrain force and longitudinal acceleration) to detect the mass of the vehicle.
+
+```python
+jupyter PowertrainIdentification.ipynb
 ```
