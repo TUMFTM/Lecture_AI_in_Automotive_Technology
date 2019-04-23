@@ -1,6 +1,6 @@
 # Artificial Intelligence in Automotive Technology - Lecture 4
 
-In the practice session of lecture 4 we will show you and introduction to the practical usage of classification algorithms from the classical machine learning. In different examples we show you how to use the scikit learn toolbox for applying a classification algorithm to detect vehicles on the street.
+In the practice session of lecture 4 we will show you and introduction to the practical usage of classification algorithms from the classical machine learning. In different examples we show you how to use the scikit learn toolbox for applying a classification algorithm to detect vehicles on the street. The data (videos and images) used in this exercise are based on the course "Self Driving Car Engineer Nanodegree" from Udacity.
 
 
 ## Things you need
