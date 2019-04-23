@@ -5,7 +5,7 @@ In the practice session of lecture 4 we will show you and introduction to the pr
 
 ## Things you need
 
-1. The detailed description of how to use juypter notebook with a first example can be found in the [Jupyter Notebook Description](https://github.com/TUMFTM/Lecture_AI_in_Automotive_Technology/blob/master/Lecture%203/04_Practice_Session_4-Classification-Exercise)
+1. The detailed description of how to use juypter notebook with a first example can be found in the [Jupyter Notebook Description](https://github.com/TUMFTM/Lecture_AI_in_Automotive_Technology/blob/master/Lecture%204/04_Practice_Session_4-Classification-Exercise)
 2. The whole exercise displays the usage of a Support Vector Machine (SVM) for the classification of vehicles on the sreet. We define a dataset and different features for training the SVM. We apply this detection pipeline to different pictures and videos. You can start the exercise by executing the following command.
 
 ```
