@@ -1,4 +1,4 @@
-# Artificial Intelligence in Automotive Technology - Lecture 3
+# Artificial Intelligence in Automotive Technology - Lecture 3 Practice Session
 
 In the practice session of lecture 3 we will show you and introduction to the practical usage of linear regression. In different examples we show you how to use the scikit learn toolbox for applying linear regression.
 

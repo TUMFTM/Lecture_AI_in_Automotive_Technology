@@ -1,4 +1,4 @@
-# Artificial Intelligence in Automotive Technology - Lecture 5
+# Artificial Intelligence in Automotive Technology - Lecture 5 Practice Session
 
 In the practice session of lecture 5 we will show you and introduction to the practical usage of clustering algorithms from the classical machine learning. In a example with real life data we show you how to use the scikit learn toolbox for applying a clustering algorithm to analyze an unstructured dataset with GPS positions.
 
