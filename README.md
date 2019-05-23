@@ -9,7 +9,7 @@ In this repository we will upload the practice session material that belongs to 
 3. Lecture 3 - Supervised Learning: Regression - https://youtu.be/kgOessQts_Q (Practice session start time: 1:28:17)
 4. Lecture 4 - Supervised Learning: Classification - https://youtu.be/Ow_q7htvo-8 (Practice session start time: 1:22:45)
 5. Lecture 5 - Unsupervised Learning: Clustering - https://youtu.be/eVpsqvdZrTE (Practice session start time: 1:22:00)
-6. Lecture 6 - Path Finding: From British Museum to A*
+6. Lecture 6 - Path Finding: From British Museum to A* - https://www.youtube.com/watch?v=d5lyM2or8cs (Practice session start time: 1:32:30)
 7. Lecture 7 - Introduction Neuronal Networks
 8. Lecture 8 - Deep Neural Networks
 9. Lecture 9 - Convolutional Neuronal Networks
