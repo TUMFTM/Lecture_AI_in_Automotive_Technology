@@ -1,0 +1,13 @@
+source /home/calcmitarbeiter/georg/vki/bin/activate
+jupyter notebook --ip=0.0.0.0 --allow-root --port=8889 --no-browser --NotebookApp.token=''
+localhost:8888
+
+source /home/calcmitarbeiter/georg/vki/bin/activate
+tensorboard --logdir=/home/calcmitarbeiter/georg/vki/8_Practice/log/
+http://10.162.44.55:6006
+
+
+
+jupyter notebook --port=5555
+
+tensorboard --logdir="C:\Users\ga87beh\Desktop\Der Ordner\3.3_VKI\Practice 8 Code\log"
