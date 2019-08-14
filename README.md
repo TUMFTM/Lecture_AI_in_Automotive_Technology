@@ -12,7 +12,7 @@ In this repository we will upload the practice session material that belongs to 
 6. Lecture 6 - Path Finding: From British Museum to A* - https://www.youtube.com/watch?v=d5lyM2or8cs (Practice session start time: 1:32:30)
 7. Lecture 7 - Introduction Neuronal Networks - https://www.youtube.com/watch?v=ksxzoG5YktY (Practice session start time: 1:35:55)
 8. Lecture 8 - Deep Neural Networks - https://www.youtube.com/watch?v=T3kQLnWpeCg (Practice session start time: 1:14:58)
-9. Lecture 9 - Convolutional Neuronal Networks
+9. Lecture 9 - Convolutional Neuronal Networks - https://www.youtube.com/watch?v=3YccAgMwgRM (Practice session start time: 1:29:45)
 10. Lecture 10 - Recurrent Neuronal Networks
 11. Lecture 11 - Reeinforcement Learning
 12. Lecture 12 - AI-Development
