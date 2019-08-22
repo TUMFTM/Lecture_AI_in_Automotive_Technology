@@ -11,5 +11,5 @@ We will take the tensorflow python package which helps us to generate a recurren
 2. Our recurrent neural network should take some image data from the MNIST Dataset as an input. As an output the network gives back the recognized number on an image.. For training the network we use the MNIST dataset given with this lecture. The code for training and evaluting the recurrent neural network is set up in a jupyter-notebook an can be started with the following command:
 
 ```
-jupyter RNN.ipynb.
+jupyter RNN.ipynb
 ```
