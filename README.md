@@ -13,7 +13,7 @@ In this repository we will upload the practice session material that belongs to 
 7. Lecture 7 - Introduction Neuronal Networks - https://www.youtube.com/watch?v=ksxzoG5YktY (Practice session start time: 1:35:55)
 8. Lecture 8 - Deep Neural Networks - https://www.youtube.com/watch?v=T3kQLnWpeCg (Practice session start time: 1:14:58)
 9. Lecture 9 - Convolutional Neuronal Networks - https://www.youtube.com/watch?v=3YccAgMwgRM (Practice session start time: 1:29:45)
-10. Lecture 10 - Recurrent Neuronal Networks
+10. Lecture 10 - Recurrent Neuronal Networks - https://www.youtube.com/watch?v=wX4qozViCnI&t=249s (Practice session start time: 1:15:30)
 11. Lecture 11 - Reeinforcement Learning
 12. Lecture 12 - AI-Development
 13. Lecture 13 - Guest Lecturer Rasmus Rothe
