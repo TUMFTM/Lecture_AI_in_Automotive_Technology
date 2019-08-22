@@ -6,9 +6,10 @@ We will take the tensorflow python package which helps us to generate a recurren
 
 ## Things you need
 
-1. For the mathematical calculation exercise we will need the [Exercise Description](https://github.com/TUMFTM/Lecture_AI_in_Automotive_Technology/blob/master/Lecture%202/Lecture_2-Practice_Session_Slides.pdf)
-1. Our neural network should take some image data x and output some image data y whith the recognized stars. For training the network we use the star dataset given with this lecture. The code for training and evaluting the convolutional neural network is set up in a jupyter-notebook an can be started with the following command:
+1. For the mathematical calculation exercise we will need the [Mathematical Exercise](https://github.com/TUMFTM/Lecture_AI_in_Automotive_Technology/blob/master/Lecture%2010%20Practice%20Session/Mathematical_Exercise.pdf). The solutions of the exercises can be found in the lecture video.
+
+2. Our recurrent neural network should take some image data from the MNIST Dataset as an input. As an output the network gives back the recognized number on an image.. For training the network we use the MNIST dataset given with this lecture. The code for training and evaluting the recurrent neural network is set up in a jupyter-notebook an can be started with the following command:
 
 ```
-jupyter FullyStar_Convolutional.ipynb
+jupyter RNN.ipynb.
 ```
