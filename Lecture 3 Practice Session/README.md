@@ -9,10 +9,10 @@ In the practice session of lecture 3 we will show you and introduction to the pr
 2. The first examples displays the usage of linear regression where three different methods of linear regression are used and applied.
 
 ```
-jupyter 02_LinReg.ipynb
+jupyter notebook 02_LinReg.ipynb
 ```
 3. The second examples displays a real world example from automotive technology. We are using real world vehicle data (powertrain force and longitudinal acceleration) to detect the mass of the vehicle by using regression technologies.
 
 ```
-jupyter 03_PowertrainIdentification.ipynb
+jupyter notebook 03_PowertrainIdentification.ipynb
 ```

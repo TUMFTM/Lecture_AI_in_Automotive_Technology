@@ -9,5 +9,5 @@ In the practice session of lecture 2 we will define a special computer vision pi
 2. The video part for the practice session of lecture 2 is starting at 1:26:34
 3. The code for this practice session is written in a jupyter notebook and ca be started with the following command:
 ```python
-jupyter Lecture_2-Practice_Session-Notebook.ipynb
+jupyter notebook Lecture_2-Practice_Session-Notebook.ipynb
 ```

@@ -10,5 +10,5 @@ In the practice session of lecture 5 we will show you and introduction to the pr
 Our goal is to compress the dataset to less than 100 representative points and extract the bus route. The whole exercise is set up in a jupyter-notebook an can be started with the following command:
 
 ```
-jupyter Approximating_route.ipynb
+jupyter notebook Approximating_route.ipynb
 ```

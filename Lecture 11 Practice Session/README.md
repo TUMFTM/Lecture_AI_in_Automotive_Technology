@@ -13,5 +13,5 @@ In the practice session of lecture 11 we will learn about Reeinforcement Learnin
 The code for the Q-Learning is set up in a jupyter-notebook an can be started with the following command:
 
 ```
-jupyter Qlearn_GridWorld.ipynb
+jupyter notebook Qlearn_GridWorld.ipynb
 ```

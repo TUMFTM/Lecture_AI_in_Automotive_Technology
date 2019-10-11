@@ -9,5 +9,5 @@ In the practice session of lecture 9 we will enhance our knowledge in the field 
 1. Our neural network should take some image data x and output some image data y whith the recognized stars. For training the network we use the star dataset given with this lecture. The code for training and evaluting the convolutional neural network is set up in a jupyter-notebook an can be started with the following command:
 
 ```
-jupyter FullyStar_Convolutional.ipynb
+jupyter notebook FullyStar_Convolutional.ipynb
 ```

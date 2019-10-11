@@ -11,5 +11,5 @@ In the practice session of lecture 8 we will enhance our knowledge in thefield o
 1.  Our neural network should take some image data x and output some image data y whith the recognized stars. For training the network we use the star dataset given with this lecture. The code for training and evaluting the neural network is set up in a jupyter-notebook an can be started with the following command:
 
 ```
-jupyter FullyStarNet.ipynb
+jupyter notebook FullyStarNet.ipynb
 ```
