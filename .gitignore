@@ -317,3 +317,8 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,visualstudiocode,pycharm
+
+/data/3_classification/practice/training_images/non-vehicles
+/data/3_classification/practice/training_images/vehicles
+/output/*.mp4
+/practice/*.mp3

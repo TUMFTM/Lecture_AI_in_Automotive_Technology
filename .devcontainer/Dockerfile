@@ -1,4 +1,4 @@
-FROM  python:3.12
+FROM  pytorch/pytorch:latest
 
 # Define build arguments
 ARG TIME_ZONE

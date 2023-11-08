@@ -69,13 +69,3 @@ After the installation of the aforementioned prerequisites, you can set up your 
 
     Make sure the Docker daemon is running.
 </details>
-
-<details> 
-    <summary>Running cells with [...] requires the ipykernel package. </summary>
-
-```
-pip install ipykernel
-```
-
-Reference: https://stackoverflow.com/questions/64997553/python-requires-ipykernel-to-be-installed
-</details>
