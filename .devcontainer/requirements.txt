@@ -12,4 +12,3 @@ folium==0.14.0
 pandas==2.1.1
 shapely==2.0.2
 geopy==2.4.0
-sklearn
