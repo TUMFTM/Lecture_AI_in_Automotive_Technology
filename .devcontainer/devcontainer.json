@@ -1,7 +1,11 @@
 {
     "build": { "dockerfile": "Dockerfile" },
   
-    "customizations": {
+    "mounts": [
+      "source=${localEnv:HOME}${localEnv:USERPROFILE},target=/host-home-folder,type=bind,consistency=cached"
+      ],
+    
+      "customizations": {
       "vscode": {
         "extensions": [
             "ms-python.python",
