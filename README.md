@@ -24,10 +24,8 @@ After the installation of the aforementioned prerequisites, you can set up your 
     <details> 
         <summary>How to clone the repository</summary>
 
-        ```
         git clone https://github.com/TUMFTM/Lecture_AI_in_Automotive_Technology.git
-        ```
-
+        
     </details>
     </p>
 
