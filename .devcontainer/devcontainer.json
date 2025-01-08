@@ -16,7 +16,15 @@
             "ms-toolsai.vscode-jupyter-cell-tags",
             "ms-toolsai.vscode-jupyter-slideshow",
             "ms-azuretools.vscode-docker"
-        ]
+        ],
+        "settings": {
+          "python.defaultInterpreterPath": "/opt/conda/bin/python",
+          "jupyter.kernels.filter": [
+            {
+              "path": "/opt/conda/bin/python"
+            }
+          ]
+        }
       }
     },
   
